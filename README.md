@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Patriciadesu/Patriciadesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <b>Hi, I'm Pat</b>
+  <p>Pataranan Sethpakdee</p>
+</h1>
+<p>
+  <em>
+    Currently studing on high school<br>
+    <b>Interested :</b> ML , GameDev<br>
+    <b>Working On</b> 1 2 3 4... a lot lol<br><br>not finished!
+  </em>
+</p>
