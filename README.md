@@ -4,6 +4,7 @@
 </h1>
 <p>
   <em>
+    CD55 , AiBxCD <br>
     Currently studing on high school<br>
     <b>Interested :</b> ML , GameDev<br>
     <b>Working On</b> 1 2 3 4... a lot lol<br><br>not finished!
