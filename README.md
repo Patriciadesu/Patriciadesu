@@ -33,14 +33,14 @@
 ---
 
 ### 💫 Interests
-🧬 Tech Startup Innovation  
-💥 Game Mechanics & Physics Simulation  
-🪄 AI Agents & Smart NPCs  
+🧬 **Tech Startup Innovation**  
+💥 **Game Mechanics & Physics Simulation**  
+🪄 **AI Agents & Smart NPCs**  
 
 ---
 
 ### 🎧 My Hobbies
-🥁 **Drumming**
+🥁 **Drumming**  
 📚 **Reading Manga / Novels** 
 
 ---
