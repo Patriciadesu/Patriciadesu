@@ -6,12 +6,22 @@
 
 ---
 
+### 🎓 What I'm Doing Right Now
+> “Teaching is just another form of leveling up.”
+
+🎓 I’m currently **teaching C# Programming, Unity Development and Object-Oriented Programming (OOP)** at **Hamster Hub**.  
+🌟 This year alone, I’ve taught **over 200 people** — helping them go from beginner to confident creators.  
+🏆 As a **mentor**, I’ve guided **four of my teams** to the **National Software Contest 2025 Finals**, earning **two Honorable Mention awards**.
+🎮 I also **hosted 8 Game Development Workshop Sessions** at **Hamster Hub** this year, inspiring new developers to build and publish their own games.
+
+---
+
 ### 🧠 Skills
 - 🧩 **Advanced Programming (OOP)**  
 - 👑 **Team Leadership / Management**  
-- 🎮 **Game Development (Unity / C#)**  
-- 🤖 **AI & Machine Learning (TensorFlow / PyTorch)**  
-- 🎨 **UI / UX Design (Figma)**  
+- 🎮 **Game Development**  
+- 🤖 **AI & Machine Learning**  
+- 🎨 **UI / UX Design**  
 
 ---
 
@@ -43,13 +53,5 @@
 </p>
 
 📞 **Phone:** 085-539-1945  
-
----
-
-### 📈 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patriciadesu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patriciadesu&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="150">
-</p>
 
 ---
