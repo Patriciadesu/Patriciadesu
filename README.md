@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I’m Pat</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/p7Gz7kR.gif" width="480px" alt="Anime Coding Gif"/>
+  <img src="https://media.tenor.com/j33YwMihpVsAAAAM/luo-tianyi-crawl.gif" width="480px" alt="Anime Coding Gif"/>
 </p>
 
 ---
