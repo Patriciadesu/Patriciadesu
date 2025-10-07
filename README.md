@@ -53,10 +53,3 @@
 </p>
 
 ---
-
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://github.com/Patriciadesu/Patriciadesu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
