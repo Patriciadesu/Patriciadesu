@@ -48,7 +48,7 @@
 
 ### 📈 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patriciadesu&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patriciadesu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patriciadesu&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="150">
 </p>
 
