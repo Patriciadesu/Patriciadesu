@@ -25,7 +25,7 @@
 
 ---
 
-### 🧰 Programming Languages & Tools : 
+### 🧰 Programming Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cs,unity,js,mongodb,postman,figma,github&perline=5" />
 </p>
