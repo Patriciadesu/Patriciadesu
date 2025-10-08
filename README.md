@@ -11,7 +11,7 @@
 
 🎓 I’m currently **teaching C# Programming, Unity Development and Object-Oriented Programming (OOP)** at **Hamster Hub**.  
 🌟 This year alone, I’ve taught **over 200 people** — helping them go from beginner to confident creators.  
-🏆 As a **mentor**, I’ve guided **four of my teams** to the **National Software Contest 2025 Finals**, earning **two Honorable Mention awards**.
+🏆 As a **mentor**, I’ve guided **four of my teams** to the **National Software Contest 2025 Finals**, earning **two Honorable Mention awards**.  
 🎮 I also **hosted 8 Game Development Workshop Sessions** at **Hamster Hub** this year, inspiring new developers to build and publish their own games.
 
 ---
