@@ -47,6 +47,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
+  <a href="https://pattr.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" height="40"/></a>
   <a href="https://instagram.com/Pataratarik"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
   <a href="https://facebook.com/PatarananSethpakdee"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
   <a href="mailto:patarananset@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
